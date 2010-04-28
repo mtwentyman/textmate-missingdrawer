@@ -20,7 +20,7 @@
 	<key>metaData</key>
 	<dict/>
 	<key>showFileHierarchyDrawer</key>
-	<false/>
+	<true/>
 	<key>windowFrame</key>
 	<string>{{122, 159}, {1096, 624}}</string>
 </dict>
